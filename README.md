@@ -33,17 +33,17 @@ Set `.env`:
 streamlit run app.py
 ```
 
-## Connection URL Examples (SQLAlchemy)
-
-- MySQL: `mysql+pymysql://user:password@host:3306/dbname`
-- MSSQL: `mssql+pyodbc://user:password@host:1433/dbname?driver=ODBC+Driver+17+for+SQL+Server`
-- Snowflake: `snowflake://user:password@account/database/schema?warehouse=COMPUTE_WH&role=SYSADMIN`
-- PostgreSQL: `postgresql+psycopg2://user:password@host:5432/dbname`
-- SQLite: `sqlite:///local.db`
-
 ## Workflow
 
 1. Connect in **Database Connect + Ingest** tab.
 2. Run SQL query to preview rows.
 3. Ingest result set into vector DB.
 4. Ask questions in **RAG Chat** tab.
+
+
+## Demo
+Watch the demo here:
+
+[▶ Watch Demo Video](https://github.com/user-attachments/assets/SQL-RAG app.mp4)
+(SQL-RAG app.mp4)
+
