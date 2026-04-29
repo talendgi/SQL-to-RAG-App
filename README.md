@@ -44,6 +44,6 @@ streamlit run app.py
 ## Watch the demo here:
 
 
-[▶ Please click here](https://github.com/talendgi/SQL-to-RAG-App/blob/main/SQL-RAG%20app.mp4)
+[▶ Please click here](https://github.com/user-attachments/assets/99c6007d-ee72-4de7-9a30-4986c2a1ed96)
 
 
