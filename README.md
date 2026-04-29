@@ -41,9 +41,9 @@ streamlit run app.py
 4. Ask questions in **RAG Chat** tab.
 
 
-## Demo
-Watch the demo here:
+## Watch the demo here:
 
-[▶ Watch Demo Video](https://github.com/user-attachments/assets/SQL-RAG app.mp4)
-(SQL-RAG app.mp4)
+
+[▶ Please click here](https://github.com/talendgi/SQL-to-RAG-App/blob/main/SQL-RAG%20app.mp4)
+
 
